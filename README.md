@@ -1,2 +1,2 @@
-# Hospital-Managment-in-Python
+# Hospital-Management-in-Python
 The program on ANP HOSPITAL (HOSPITAL MANAGEMENT) had been built to handle management in hospital. It provides all necessary details about hospital like, Doctor’s information, Patient information, Patient appointment and Bill generation. This program had been built for hospitals to record data in more efficient and better way using the Python language. It reduces the use of paper and pen and hence it is environment friendly, faster and secure.
